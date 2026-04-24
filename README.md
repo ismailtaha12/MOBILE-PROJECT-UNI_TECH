@@ -2,6 +2,11 @@
 
 This is a side project and not used in the university
 
+## Documentation
+
+- 📊 [Project Presentation (PDF)](docs/MIU-TechCircle-Presentation.pdf)
+- 🏛️ [Software Architecture (PDF)](docs/SW-Architecture-Project.pdf)
+
 A Flutter-based social and collaboration platform built for the MIU university community. The app combines a social feed, stories, messaging, freelancing hub, announcements, calendar events, and administrative tools in a single cross-platform mobile experience.
 
 
